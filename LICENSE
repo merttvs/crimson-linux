@@ -1,10 +1,25 @@
-Crimson Linux by Crimson Red Laboratories License  
-Copyright (c) 2025 Crimson Red Laboratories. All rights reserved.
+Copyright (c) 2025 Crimson Red Laboratories
+All rights reserved.
 
-This software and all associated files are the intellectual property of Crimson Red Laboratories.
+Crimson Linux is the exclusive property of Crimson Red Laboratories. 
 
-Permission is granted to view and use this software for personal, non-commercial purposes only.  
-Reproduction, modification, redistribution, or commercial use of any part of this project is strictly prohibited without prior written consent from Crimson Red Laboratories.
+Permission is hereby granted to use, copy, and modify this software in source or binary form 
+for **non-commercial purposes only**. Redistribution or sale for commercial purposes is strictly prohibited. 
+Distribution and use are subject to the following conditions:
 
-By using this software, you agree to comply with the above terms.  
-Unauthorized use may result in legal action.
+1. Redistributions of source code must retain this copyright notice, this list of conditions, 
+   and the following disclaimer.
+2. Redistributions in binary form must reproduce this copyright notice, this list of conditions, 
+   and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3. The names "Crimson Linux" and "Crimson Red Laboratories" may not be used to endorse or promote products 
+   derived from this software without prior written permission.
+4. If you modify this software and publish or distribute it in any form, you **must clearly indicate** 
+   the differences between your version and the original software, including a description of the changes made.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. 
+IN NO EVENT SHALL THE CONTRIBUTORS OR CRIMSON RED LABORATORIES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, 
+OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, 
+LOSS OF USE, DATA, OR PROFITS, OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY 
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
